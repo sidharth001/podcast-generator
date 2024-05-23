@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "PodGenie"
 author: "Sidharth Gupta"
 description: "Generates a feed for a podcast for a YAML file"
 runs:

@@ -1,6 +1,6 @@
 name: "PodGenie"
 author: "Sidharth Gupta"
-description: "Generates a feed for a podcast for a YAML file"
+description: "Generate podcast feeds seamlessly from YAML files. Easily create, manage, and distribute your podcast with PodGenie."
 runs:
   using: "docker"
   image: "Dockerfile"

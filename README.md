@@ -79,4 +79,4 @@ We welcome contributions to enhance Podcast Generator! If you have suggestions, 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Contact
-For any questions or inquiries, please contact @sidharth001
+For any questions or inquiries, please contact #sidharth001
